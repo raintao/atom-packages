@@ -7,7 +7,7 @@
 - After that run `./atom-packages.sh`
 - Restart your Atom editor and you should have all the cool packages.
 
-###packages list
+### packages list
 - advanced-new-file     打开文件或新建文件，同时支持路径补全
 - atom-beautify         代码格式化 ctr+alt+b
 - atom-minify
@@ -47,13 +47,14 @@
 - vue-autocomplete  vue语法自动补全
 - xml-formatter     xml语法格式化
 
-      切换窗口cmd+t
-      在atom中打开控制台cmd+alt+i
-      打开终端comm+`
-      注释补全  输入/两个星号后 按tab
-      comm+r  搜索函数等
-      通过 Cmd-Alt-O快速的打开文件或新建文件，同时支持路径补全。
-      通过 Cmd-shift-O快速的在本窗口中打开项目
-      通过 Cmd-O快速的在新窗口中打开项目
+:smiley: :smiley: :smiley:
+切换窗口cmd+t
+在atom中打开控制台cmd+alt+i
+打开终端comm+`
+注释补全  输入/两个星号后 按tab
+comm+r  搜索函数等
+通过 Cmd-Alt-O快速的打开文件或新建文件，同时支持路径补全。
+通过 Cmd-shift-O快速的在本窗口中打开项目
+通过 Cmd-O快速的在新窗口中打开项目
 
-:smiley: :coffee:
+:smiley: :smiley: :smiley:
